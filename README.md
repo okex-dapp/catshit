@@ -14,4 +14,4 @@ Total 21 million
 21 million = (okt price = 20 USDT)
 
 
-Every 24h rebase!
+Every 24h rebase once!
